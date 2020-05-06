@@ -1,4 +1,4 @@
-# [in-game (GitHub hosted)](tree/in-game) | [full (self hosted)](tree/full)
+# [in-game (GitHub hosted)](https://github.com/LagSwitchedVirginity/gmod-logger--website-v1/tree/in-game) | [full (self hosted)](https://github.com/LagSwitchedVirginity/gmod-logger--website-v1/tree/full)
 ## Hosting
 ### GitHub
 |                Pros               |              Cons              |
